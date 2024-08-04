@@ -1,0 +1,2 @@
+# kubectl-secret
+kubectl work 
